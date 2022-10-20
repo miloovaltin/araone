@@ -1,0 +1,17 @@
+
+{
+"name": "araone",
+"theme": "araone",
+"version": "9.10.5",
+"description": "araone ทางเข้าหลักเว็บแทงบอลเว็บตรง ไม่มีขั้นต่ำ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"araone",
+"araone เครดิตฟรี",
+"araone ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/araone",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
